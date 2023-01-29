@@ -4,27 +4,24 @@
     <!-- Required meta tags -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="data:," />
+    <link rel="icon" href="data:,"/>
 
     <!-- jquery -->
     <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>
-    <link
-      rel="stylesheet"
-      href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"
-    />
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
-      crossorigin="anonymous"
-    ></script>
-    <!-- Bootstrap CSS -->
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
-    />
-
-    <link rel="stylesheet" href="{{url_for('static', filename='main.css')}}">
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" href="../static/main.css">
 
     <title>Projects in CS</title>
   </head>
@@ -33,10 +30,9 @@
   </style>
 
   <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-bar">
+    <nav class="navbar navbar-fixed-top navbar-expand-lg bg-bar ">
       <div class="container">
         <a class="navbar-brand" href="/">COMS-BC3997-SP23</a>
-
         <a class="nav-link js-scroll-trigger" href="#proposal-description">Description</a>
         <a class="nav-link js-scroll-trigger" href="#timeline">Timeline</a>
         <a class="nav-link js-scroll-trigger" href="#team">Meet the Team</a>
@@ -105,7 +101,7 @@
     </section>
 
     <section id="timeline" class="timeline">
-      
+
       <div class="container">
         <h1>Timeline</h1>
         <a href="https://docs.google.com/document/d/1pTSZL15rSLl_Jj5YSeOfzWleQpNxW4bNXGXWxFUGg00/edit">Project Tracker</a>
@@ -116,33 +112,62 @@
       <div class="container">
 
         <h1>Meet the Team</h1>
+
         
-        <img src="../static/img/fatima.JPG" alt="">
-        <p>Fatima Azimova</p>
-        <p>BC '23</p>
-        <ul class="list-inline social-buttons">
-          <li><a href="mailto:fa2539@barnard.edu"><i class="fa fa-envelope"></i></a></li>
-          <li><a href="https://www.linkedin.com/in/fatima-azimova-7091371aa/"  target="_blank"><i class="fa fa-linkedin"></i></a></li>
-          <li><a href="https://github.com/azimovaaaa"  target="_blank"><i class="fa-brands fa-github"></i></a></li>
-        </ul>
+        <div class="row">
+          <div class="col-sm">
+            <div class="center">
+              <img src="../static/img/fatima.JPG" alt="">
+              <div>
+                Fatima Azimova <br>
+                BC '23
+              </div>
+              <ul class="list-inline social-buttons">
+                <li><a href="mailto:fa2539@barnard.edu"><i class="fa fa-envelope"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/fatima-azimova-7091371aa/"  target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="https://github.com/azimovaaaa"  target="_blank"><i class="fa fa-github"></i></a></li>
+              </ul>
+            </div>
+            
+          </div>
 
-        <img src="../static/img/nazaret.jpeg" alt="">
-        <p>Nazaret Cuadros</p>
-        <p>BC '23</p>
-        <ul class="list-inline social-buttons">
-          <li><a href="mailto:nc2836@barnard.edu"><i class="fa fa-envelope"></i></a></li>
-          <li><a href="https://www.linkedin.com/in/nazaretc/"  target="_blank"><i class="fa fa-linkedin"></i></a></li>
-          <li><a href="https://github.com/nazaret0"  target="_blank"><i class="fa-brands fa-github"></i></a></li>
-        </ul>
+          <div class="col-sm">
+            <div class="center">
+              <img src="../static/img/nazerat.jpeg" alt="">
+              <div>
+                Nazaret Cuadros <br>
+                BC '23
+              </div>
+              <ul class="list-inline social-buttons">
+                <li><a href="mailto:nc2836@barnard.edu"><i class="fa fa-envelope"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/nazaretc/"  target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="https://github.com/nazaret0"  target="_blank"><i class="fa fa-github"></i></a></li>
+              </ul>
+            </div>
+          </div>
 
-        <img src="../static/img/adiba.jpeg" alt="">
-        <p>Adiba Hussain</p>
-        <p>BC '23</p>
-        <ul class="list-inline social-buttons">
-          <li><a href="mailto:ah3687@barnard.edu"><i class="fa fa-envelope"></i></a></li>
-          <li><a href="https://www.linkedin.com/in/adibahussain/"  target="_blank"><i class="fa fa-linkedin"></i></a></li>
-          <li><a href="https://github.com/adibahussain19"  target="_blank"><i class="fa-brands fa-github"></i></a></li>
-        </ul>
+          <div class="col-sm">
+            <div class="center">
+              <img src="../static/img/adiba.jpeg" alt="">
+              <div>
+                Adiba Hussain <br>
+                BC '23
+              </div>
+              <ul class="list-inline social-buttons">
+                <li><a href="mailto:ah3687@barnard.edu"><i class="fa fa-envelope"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/adibahussain/"  target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="https://github.com/adibahussain19"  target="_blank"><i class="fa fa-github"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        
+        
+        
+
+        
+
+        
 
       </div>
 

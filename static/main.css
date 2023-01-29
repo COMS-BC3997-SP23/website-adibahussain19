@@ -1,0 +1,53 @@
+.navbar-brand{
+    color: black;
+}
+
+.navbar{
+    background-color: #A7C7E7;
+    position: fixed;    
+    top: 0; 
+    width: 100%;  
+}
+
+.navbar a{
+    color: black;
+}
+
+.navbar a:hover{
+    color: white;
+}
+
+section.proposal-description{
+    margin-top: 5%;
+}
+
+h1{
+    font-size: 1.5rem;
+    text-decoration: underline;
+}
+
+section{
+    margin-bottom: 5%
+}
+
+.row img{
+    width: 200px; /* You can set the dimensions to whatever you want */
+    height: 200px;
+    object-fit: cover;
+}
+
+section.team h1{
+    padding-bottom: 5%
+}
+
+.center{
+    margin-left: 15%;
+    text-align: center;
+}
+
+.social-buttons li{
+    display: inline-block;
+    margin: 0 10px;
+}
+
+
