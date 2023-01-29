@@ -1,4 +1,4 @@
-## Heyyyy bestieeeeeeeee 
+## READ.MD 
 
 This repository will house your personal website for this course.
 
