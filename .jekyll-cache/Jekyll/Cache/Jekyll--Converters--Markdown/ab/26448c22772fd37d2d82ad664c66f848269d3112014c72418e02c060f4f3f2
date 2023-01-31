@@ -1,20 +1,15 @@
----
-title: "Project Proposal"
-layout: page
----
-
-<html lang="en">
+I"œ<html lang="en">
 <title>About | Blog Title</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="author" content="Blog Author">
-<meta name="generator" content="Jekyll v4.2.2">
-<link rel="canonical" href="http://localhost:4000/about/">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="author" content="Blog Author" />
+<meta name="generator" content="Jekyll v4.2.2" />
+<link rel="canonical" href="http://localhost:4000/about/" />
 
-<link rel="stylesheet" href="/assets/css/frame.css">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<link rel="stylesheet" href="/assets/css/frame.css" />
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
 
-<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="Blog Title">
+<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="Blog Title" />
 
 
 <article>
@@ -61,7 +56,7 @@ layout: page
 <p>As of now, the program can consist of ten 60 minute sessions that can be implemented in a format of an afterschool program. Each session will delve into a different topic of technology. Below are some ideas for the sessions:</p>
 <ul>
   <li>Introduction to Leetcode/Basics of Coding</li>
-  <li>How to Prepare for Internships & Technical Interviews</li>
+  <li>How to Prepare for Internships &amp; Technical Interviews</li>
   <li>Research in Computer Science</li>
   <li>Series of Sessions that Discuss the Intersection of CS and other fields (English, Music, etc)</li>
   <li>Guide to Hackathons (what are they? is it worth it?)</li>
@@ -72,3 +67,5 @@ layout: page
 
 <p><a href="https://docs.google.com/document/d/1pTSZL15rSLl_Jj5YSeOfzWleQpNxW4bNXGXWxFUGg00/edit">Project Tracker</a></p>
 
+</article></html>
+:ET

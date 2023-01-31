@@ -1,0 +1,35 @@
+I"<h2 id="description">Description</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    Developing a curriculum for around 10 independent sessions that would introduce NYC public high school students (11-12 graders) into the bigger field of technology. Through these sessions, the students will be able to develop a better understanding of how technology is intertwined with their various interests. It will also provide the students with a solid foundation for a Computer Science major at a higher educational institution with hopes of bridging the achievement gap.
+</code></pre></div></div>
+
+<h2 id="background">Background</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    [CS For All][csfa]: An organization to bring computer science classes to all K-12 public schools by providing a free curriculum directory. Provides 76 Algorithms and Programming, 44 Computing Systems, 43 Data and Analysis, 48 Impacts of Computing, and 32 Networks and Internet courses at varying costs and lengths. Includes sub-concepts: Algorithms, Control, Culture, Devices, Modularity, Program Development, Safety, Law, and Ethics, Social Interactions, Variables, and Visualization and Transformation.
+
+    [AP Computer Science A][apcs]: Focuses on computing skills related to programming in Java (equivalent to a college-level intro to computer science course) Modularity, Variables, Impact of Computing. Units 1-10 are: Primitive Types, Using Objects, Boolean Expressions and if Statements, Iteration, Writing Classes, Array, ArrayList, 2D Array, Inheritance, and Recursion. There is also a lab component focusing on group work and problem solving (Found in Course Overview and Course and Exam Description).
+
+    [AP Computer Science Principles][apcsp]: Provides students with a broad introduction to computer science (equivalent to a college-level breadth course) and how it relates to other fields. Focuses on computational thinking practices and learning with the following areas of study: Creative Development, Data, Algorithms and Programming, Computing Systems and Networks, Impact of Computing. Computational Solution Design: Design and evaluate computational solutions for a purpose. They aim to teach the following skill: Algorithms and Program Development, Abstraction in Program Development, Code Analysis, Computing Innovations, and Responsible Computing (Found in Course Overview and Course and Exam Description).
+
+    [Code.org][code]: Provides coding courses AP CSA, AP CSP, CS Discoveries for grades 6-10, CS Fundamentals for ages 4-11, Pre-reader Express for ages 4-8, CS Fundamentals: Express for ages 9-18, and professional learning to teach for all ages.
+
+    Hour of Code: An initiative to have school-aged students participate in coding games and exercises for “pre-reader” to grades 9+ for one hour a year to introduce them to coding skills.
+
+    Google CS First: A resource that provides hour-long coding lessons, Hour of Code programming, eight lessons with multi-day units, and two advanced coding courses.
+
+    Khan Academy: Provides Hour of Code lessons and courses in Computer programming, Computers and the Internet, AP®︎/College Computer Science Principles, Pixar in a Box Animation, Computer science (Algorithms, Cryptograph, and Information theory), and Computers and the Internet in partnership with Code.org.
+</code></pre></div></div>
+
+<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].</p>
+
+:ET

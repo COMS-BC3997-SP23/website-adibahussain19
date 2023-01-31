@@ -170,44 +170,6 @@ body { box-shadow: 0 0 0.3em #c5c7cf; }
 
 body > header, body > footer { background: #2d2e36; color: #ffffff; }
 
-
-.container {
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-}
-
-.row {
-    display: -ms-flexbox;
-    display: flex;
-    margin-right: -15px;
-    margin-left: -15px;
-}
-
-.col-sm{
-    position: relative;
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-}
-.list-inline {
-    padding-left: 0;
-    list-style: none;
-    display: inline-block;
-    margin: 0 10px;
-}
-.row img{
-    width: 200px; /* You can set the dimensions to whatever you want */
-    height: 200px;
-    object-fit: cover;
-}
-.center{
-    margin-left: 15%;
-    text-align: center;
-}
-
 @media (min-width: 32em) { body > header, body > article, body > footer { padding: 1.75em calc(22% - 6em); } }
 
 @media (prefers-color-scheme: dark) { body, body > header, body > footer { box-shadow: 0 0 0 1px #33353e; } html, body > header, body > footer { background: #212228; } }

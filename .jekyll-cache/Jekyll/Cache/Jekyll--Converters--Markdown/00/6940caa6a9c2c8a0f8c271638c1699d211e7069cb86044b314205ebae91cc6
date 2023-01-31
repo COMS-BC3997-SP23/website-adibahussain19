@@ -1,20 +1,15 @@
----
-title: "Project Proposal"
-layout: page
----
-
-<html lang="en">
+I"M<html lang="en">
 <title>About | Blog Title</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="author" content="Blog Author">
-<meta name="generator" content="Jekyll v4.2.2">
-<link rel="canonical" href="http://localhost:4000/about/">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="author" content="Blog Author" />
+<meta name="generator" content="Jekyll v4.2.2" />
+<link rel="canonical" href="http://localhost:4000/about/" />
 
-<link rel="stylesheet" href="/assets/css/frame.css">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<link rel="stylesheet" href="/assets/css/frame.css" />
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
 
-<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="Blog Title">
+<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="Blog Title" />
 
 
 <article>
@@ -61,7 +56,7 @@ layout: page
 <p>As of now, the program can consist of ten 60 minute sessions that can be implemented in a format of an afterschool program. Each session will delve into a different topic of technology. Below are some ideas for the sessions:</p>
 <ul>
   <li>Introduction to Leetcode/Basics of Coding</li>
-  <li>How to Prepare for Internships & Technical Interviews</li>
+  <li>How to Prepare for Internships &amp; Technical Interviews</li>
   <li>Research in Computer Science</li>
   <li>Series of Sessions that Discuss the Intersection of CS and other fields (English, Music, etc)</li>
   <li>Guide to Hackathons (what are they? is it worth it?)</li>
@@ -72,3 +67,62 @@ layout: page
 
 <p><a href="https://docs.google.com/document/d/1pTSZL15rSLl_Jj5YSeOfzWleQpNxW4bNXGXWxFUGg00/edit">Project Tracker</a></p>
 
+<h2 id="license">Meet the Team</h2>
+<section id="team" class="team">
+  <div class="container">
+
+&lt;/article&gt;
+
+    
+    <div class="row">
+      <div class="col-sm">
+        <div class="center">
+          <img src="../static/img/fatima.JPG" alt="" />
+          <div>
+            Fatima Azimova <br />
+            BC '23
+          </div>
+          <ul class="list-inline social-buttons">
+            <a href="mailto:fa2539@barnard.edu"><i class="fa fa-envelope"></i></a>
+            <a href="https://www.linkedin.com/in/fatima-azimova-7091371aa/" target="_blank"><i class="fa fa-linkedin"></i></a>
+            <a href="https://github.com/azimovaaaa" target="_blank"><i class="fa fa-github"></i></a>
+          </ul>
+        </div>
+        
+      </div>
+
+      <div class="col-sm">
+        <div class="center">
+          <img src="../static/img/nazerat.jpeg" alt="" />
+          <div>
+            Nazaret Cuadros <br />
+            BC '23
+          </div>
+          <ul class="list-inline social-buttons">
+            <a href="mailto:nc2836@barnard.edu"><i class="fa fa-envelope"></i></a>
+            <a href="https://www.linkedin.com/in/nazaretc/" target="_blank"><i class="fa fa-linkedin"></i></a>
+            <a href="https://github.com/nazaret0" target="_blank"><i class="fa fa-github"></i></a>
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-sm">
+        <div class="center">
+          <img src="../static/img/adiba.jpeg" alt="" />
+          <div>
+            Adiba Hussain <br />
+            BC '23
+          </div>
+          <ul class="list-inline social-buttons">
+            <a href="mailto:ah3687@barnard.edu"><i class="fa fa-envelope"></i></a>
+            <a href="https://www.linkedin.com/in/adibahussain/" target="_blank"><i class="fa fa-linkedin"></i></a>
+            <a href="https://github.com/adibahussain19" target="_blank"><i class="fa fa-github"></i></a>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>
+</article></html>
+:ET
