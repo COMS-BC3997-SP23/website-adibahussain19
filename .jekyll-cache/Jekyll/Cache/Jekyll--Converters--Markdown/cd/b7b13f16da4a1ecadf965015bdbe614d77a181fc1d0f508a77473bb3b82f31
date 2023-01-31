@@ -1,31 +1,5 @@
-<!DOCTYPE html>
+I"Ÿ
 <html lang="en">
-<title>About | Blog Title</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="author" content="Blog Author">
-<meta name="generator" content="Jekyll v4.2.2">
-<link rel="canonical" href="http://localhost:4000/about/">
-
-<link rel="stylesheet" href="/assets/css/frame.css">
-
-<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="Blog Title">
-
-
-
-
-
-
-
-<header>
-  <a href="/" class="title">Blog Title</a>
-  <nav><a href="/" >Home</a><a href="/about/" class="selected">About</a></nav>
-
-</header>
-
-<article>
-  <header><h1><a href="/about/">About</a></h1></header>
-  <html lang="en">
 <title>About | Blog Title</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -35,43 +9,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
 
 <link rel="stylesheet" href="/assets/css/frame.css" />
+<link rel="stylesheet" href="/static/about.css" />
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
-<style>
-  .container {
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-  }
-  .row {
-      display: -ms-flexbox;
-      display: flex;
-      margin-right: -15px;
-      margin-left: -15px;
-  }
-  .col-sm{
-      position: relative;
-      width: 100%;
-      padding-right: 15px;
-      padding-left: 15px;
-  }
-  .list-inline {
-      padding-left: 0;
-      list-style: none;
-      display: inline-block;
-      margin: 0 10px;
-  }
-  .row img{
-      width: 200px; /* You can set the dimensions to whatever you want */
-      height: 200px;
-      object-fit: cover;
-  }
-  .center{
-      margin-left: 15%;
-      text-align: center;
-  }
-</style>
+
 <div class="container">
 
   <h1>Meet the Team</h1>
@@ -122,16 +62,4 @@
   </div>
 </div>
 </html>
-
-</article>
-
-
-
-<footer>
-  <div>Made with <b style="color: #f45;">&lt;3</b></div>
-  <nav><a href="mailto:niklasbuschmann@users.noreply.github.com" ><svg aria-label="Mail" class="icon"><use xlink:href="/assets/fontawesome/icons.svg#envelope"></use></svg></a><a href="https://github.com/niklasbuschmann/contrast" ><svg aria-label="Github" class="icon"><use xlink:href="/assets/fontawesome/icons.svg#github"></use></svg></a><a href="/feed.xml" ><svg aria-label="Subscribe" class="icon"><use xlink:href="/assets/fontawesome/icons.svg#rss"></use></svg></a></nav>
-
-</footer>
-
-
-</html>
+:ET
