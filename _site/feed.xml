@@ -1,5 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-01-30T19:48:24-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog Title</title><subtitle>Made with &lt;b style=&quot;color: #f45;&quot;&gt;&amp;lt;3&lt;/b&gt;</subtitle><author><name>Blog Author</name></author><entry><title type="html">Project Proposal</title><link href="http://localhost:4000/project-proposal/" rel="alternate" type="text/html" title="Project Proposal" /><published>2023-01-30T00:00:00-05:00</published><updated>2023-01-30T00:00:00-05:00</updated><id>http://localhost:4000/project-proposal</id><content type="html" xml:base="http://localhost:4000/project-proposal/"><![CDATA[<html lang="en">
-<title>About | Blog Title</title>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-02-13T15:56:34-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog Title</title><subtitle>Made with &lt;b style=&quot;color: #f45;&quot;&gt;&amp;lt;3&lt;/b&gt;</subtitle><author><name>Blog Author</name></author><entry><title type="html">Weekly Report</title><link href="http://localhost:4000/weekly-progress/" rel="alternate" type="text/html" title="Weekly Report" /><published>2023-02-13T00:00:00-05:00</published><updated>2023-02-13T00:00:00-05:00</updated><id>http://localhost:4000/weekly-progress</id><content type="html" xml:base="http://localhost:4000/weekly-progress/"><![CDATA[<html lang="en">
+<title>Weekly Report</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="author" content="Blog Author" />
+<meta name="generator" content="Jekyll v4.2.2" />
+<link rel="canonical" href="http://localhost:4000/about/" />
+
+<link rel="stylesheet" href="/assets/css/frame.css" />
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
+
+<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="CS Bridge" />
+
+
+<article>
+  <h2 id="installation">Week 0</h2>
+
+  <p>Completed project proposal outline, set up Git repository repo for weekly progress blog, and solidified project idea with group and professor. </p>
+
+  <h2 id="features">Week 1</h2>
+
+  <p>
+    Started formatting and uploading information to the website and began outlining the project proposal.
+  </p>
+
+
+<h2 id="based-on">Week 2</h2>
+
+<p>We worked on setting up a rough timeline, and started our background research and competitor research to inform our project motivation. A large part of our research was informing ourselves of what a typical public high school might offer and what initiatives are available to provide computer science education. We also started drafting our project proposal and researching lesson plans with approval of more project choices with the professor.</p>
+
+
+<h2 id="license">Week 3</h2>
+
+<p>The project proposal was completed this week, including a description, background, competitor research, motivation, course overview/vision and minimum/target/reach goals. We also added a draft of our timeline and adapted a sample outline for our lesson plans from CS For All. The website to track progress was updated with weekly entries and the final project proposal was published to the website as well. We also had a meeting with the Access Barnard department of Barnard College, since they have a partnership with public NYC high schools to promote Barnard, Opportunity Programs, and the Collegiate Science and Technology Entry Program (CSTEP). Since this state-wide program supports students that are interested in STEM fields at Barnard, Raul Cervantes of Access Barnard was interested in the possibility of us teaching a computer science course to high school students. We will continue to explore this possibility with him, since it could be an opportunity for us to try out a lesson plan with our expected demographic.</p>
+
+</article></html>]]></content><author><name>Blog Author</name></author><summary type="html"><![CDATA[Weekly Report]]></summary></entry><entry><title type="html">Project Proposal 2.0</title><link href="http://localhost:4000/final-pp/" rel="alternate" type="text/html" title="Project Proposal 2.0" /><published>2023-02-12T00:00:00-05:00</published><updated>2023-02-12T00:00:00-05:00</updated><id>http://localhost:4000/final-pp</id><content type="html" xml:base="http://localhost:4000/final-pp/"><![CDATA[<html lang="en">
+<title>Project Proposal 2.0</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="author" content="Blog Author" />
@@ -15,9 +50,36 @@
 <article>
   <h2 id="installation">Description</h2>
 
-  <p>Developing a curriculum for around 10 independent sessions that would introduce NYC public high school students (11-12 graders) into the bigger field of technology. Through these sessions, the students will be able to develop a better understanding of how technology is intertwined with their various interests. It will also provide the students with a solid foundation for a Computer Science major at a higher educational institution with hopes of bridging the achievement gap. </p>
+  <p>Developing a curriculum for 10 independent sessions that would introduce New York City Public High School Students (11th to 12th graders specifically) to the bigger field of technology. Through these sessions, the students will be able to develop a better understanding of how technology is intertwined with their various interests. It will also provide students with a solid foundation for a Computer Science major at a higher educational institution with hopes of bridging the achievement gap.</p>
 
-  <h2 id="features">Background</h2>
+<h2 id="features">Background</h2>
+
+  <p>
+    <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=129882">Increasing accessibility to computer science education across the U.S. (NSF):</a> The 2013 press release from the National Science Foundation, speaks of their (now inactive) CS10K initiative. They summarize that there is a need for qualified CS educators, CS education isn't mandatory in many places, there needs to be an early start in CS education. They  also give background and verbal support to programs: FRABJOUS, Mobile CSP, Teach for America, Project Lead the Way, The Games Network, and STARS Computing Corps.
+  </p>
+
+  <p>
+    <a href="https://www.teachforamerica.org/stories/students-need-more-access-to-computer-science-education">Students Need More Access to Computer Science Education (Teach For America):</a> This 2020 article summarizes useful statistics of the STEM education gap and argues that K-12 education is key to tackle this inequity. Teach For America announces their partnership with Cognizant U.S. Foundation on “expanding computer science pathways in low-income schools nationwide”, with a three-pronged strategy of increasing access to high-quality CS education, advancing the CS conversation, and fostering learning and drive innovation.
+
+  </p>
+
+  <p>
+    <a href="https://harvardpolitics.com/computer-science-accessibility/">The Case for Computer Science Accessibility (Harvard Political Review):</a> This December 2022 article speaks of the success of computer science initiatives in boosting STEM education interest and retention, how it benefits students’ performances in other subjects, and how it fosters skills useful for all careers in a technology-oriented world. Especially beneficial is “free, high-quality instructional material” that makes CS classes as long as the school has computer access.
+  </p>
+
+  <p>
+    <a href="https://journals.sagepub.com/doi/abs/10.1177/016146812012201106">The Rollout of Computer Science Education to Every Student in New York City: A Socio-Contextual Social Network Analysis: </a> This article covers the history of the CS4All initiative which is projected to be implemented into all NYC public schools by 2025. This program aims to create “the necessary infrastructure to provide computer science experiences to all New York City public-school students”. This initiative was announced in 2015 by NYC Mayor Bill de Blasio. This article can be helpful with our overall understanding of the plans to implement more CS Education on a public school level in order to differentiate our own curriculum.
+  </p>
+
+  <p>
+    <a href="https://eric.ed.gov/?id=ED591502">Computer Science in New York City: An Early Look at Teacher Training Opportunities and the Landscape of CS Implementation in Schools. Technical Appendices:</a> This is another article that covers CS4All which also “aims to provide professional development (PD) in CS for nearly 5,000 teachers, specifically targeting those with little or no computer science background. The initiative is focused in part on increasing access to CS education among students from historically underrepresented groups, including girls, Black and Latino students, English Learners, and special education students”. This specific report describes “findings from the first year of the evaluation” and includes the goals and strategies of the program, an early implementation of the program and how teachers are responding to the professional development.
+  </p>
+
+  <p>
+    <a href="https://www.proquest.com/pagepdf/303957277?accountid=10226">A comparative analysis of computer science baccalaureate graduates from cooperative and noncooperative education programs in New York State:</a> This is a dissertation from the 90s which details a study that had the purpose to “to compare the career progress of graduates from a cooperative education in computer science to non-cooperative graduates in the same field of study. A secondary purpose is to determine the current attitudes held by graduates and faculty supervisors toward the cooperative method in order to assess the relative perceived value of cooperative programs.” This can be helpful in our overall report when it comes to background information regarding the importance of these programs. 
+  </p>
+
+  <h2 id="features">Competitor Research</h2>
 
   <p>
     <a href="https://www.csforall.org/projects_and_programs/curriculum_directory/">CS For All:</a> An organization to bring computer science classes to all K-12 public schools by providing a free curriculum directory. Provides 76 Algorithms and Programming, 44 Computing Systems, 43 Data and Analysis, 48 Impacts of Computing, and 32 Networks and Internet courses at varying costs and lengths. Includes sub-concepts: Algorithms, Control, Culture, Devices, Modularity, Program Development, Safety, Law, and Ethics, Social Interactions, Variables, and Visualization and Transformation.
@@ -49,17 +111,32 @@
 
 <h2 id="based-on">Motivation</h2>
 
-<p>Our main motivations for this project stem from our own experience of trying to adjust to the Computer Science curriculum at Columbia as first year students. All three of us were coming to college from New York City Public High Schools with little to no experience in the tech world. Despite starting off with introductory courses in the CS department just as all prospective CS majors are required to do, we still felt a huge learning curve and felt as though we were at a disadvantage. There were students in our Intro CS classes that had years of experience under their belt while we were just starting out. We decided we wanted to create a program that can be implemented in high schools in order to help bridge this gap. </p>
+<p>Our main motivations for this project stem from our own experience of trying to adjust to the Computer Science curriculum at Columbia as first-year students. All three of us were coming to college from New York City Public High Schools with little to no experience in the tech world. Despite starting off with introductory courses in the CS department as all prospective CS majors are required to do, we still felt a huge learning curve and felt as though we were at a disadvantage. There were students in our Intro CS classes that had years of experience under their belt while we were just starting out. We decided we wanted to create a program that can be implemented in high schools in order to help bridge this gap between high school level knowledge of Computer Science to a baseline understanding of the field. It is not a common occurrence yet for a New York City public high school to offer one or both of the available Advanced Placement computer science courses, so there could still be discrepancies between how successfully courses are taught, especially if they are recently added. Even when these AP courses are available, the coursework alone does not prepare students for the scope of a computer science major or teach them how to prepare to break into the field of technology. Our aim for this project's curriculum is to bridge the knowledge gap between public high school and higher education for underrepresented students that may be interested in tech and STEM fields regardless of their previous access to computer science and advanced placement education. </p>
 
 <h2 id="installation-jekyll-remote-theme-method">Vision</h2>
-
-<p>As of now, the program can consist of ten 60 minute sessions that can be implemented in a format of an afterschool program. Each session will delve into a different topic of technology. Below are some ideas for the sessions:</p>
+<p>As of now, we aim for the program to consist of ten 60-minute sessions that can be implemented in a format of a weekly after school program. Each session will delve into a different topic of technology or Computer Science. Below are the proposed sessions for our program:</p>
+<p><em>Course Overview</em></p>
 <ul>
-  <li>Introduction to Leetcode/Basics of Coding</li>
-  <li>How to Prepare for Internships &amp; Technical Interviews</li>
-  <li>Research in Computer Science</li>
-  <li>Series of Sessions that Discuss the Intersection of CS and other fields (English, Music, etc)</li>
-  <li>Guide to Hackathons (what are they? is it worth it?)</li>
+  <li>In the first and last sessions, students will be given a diagnostic exam in order to track their knowledge and progress as a means to evaluate the effectiveness of our program.</li>
+  <li>10 sessions:</li>
+  <ol>
+    <li>Introduction to course and diagnostic quiz;</li>
+    <li>Basics of Computer Science;</li>
+    <li>CS Curriculum requirements, focus on pathways in CS</li>
+    <li>Intro to Leetcode/Hackathons</li>
+    <li>Internships, tech interviews, tech industry background</li>
+    <li>Research/Academia in CS, HCI, NLP, AI</li>
+    <li>Intersection between CS and other fields (can possibly have guest speakers)</li>
+    <ul>
+      <li>CS and English</li>
+      <li>CS and Music</li>
+      <li>CS and Humanities</li>
+      <li>CS and Media</li>
+    </ul>
+    <li>Cybersecurity: White-hat hacking, pentesting, portswigger</li>
+    <li>Networking, tech resume and LinkedIn workshop</li>
+    <li>Program wrap-up and course evaluation survey</li>
+  </ol>
   
 </ul>
 
@@ -67,7 +144,7 @@
 
 <p><a href="https://docs.google.com/document/d/1pTSZL15rSLl_Jj5YSeOfzWleQpNxW4bNXGXWxFUGg00/edit">Project Tracker</a></p>
 
-</article></html>]]></content><author><name>Blog Author</name></author><summary type="html"><![CDATA[About | Blog Title]]></summary></entry><entry><title type="html">Project Proposal</title><link href="http://localhost:4000/welcome-to-jekyll/" rel="alternate" type="text/html" title="Project Proposal" /><published>2017-03-01T00:00:00-05:00</published><updated>2017-03-01T00:00:00-05:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/welcome-to-jekyll/"><![CDATA[<html lang="en">
+</article></html>]]></content><author><name>Blog Author</name></author><summary type="html"><![CDATA[Project Proposal 2.0]]></summary></entry><entry><title type="html">Project Proposal</title><link href="http://localhost:4000/project-proposal/" rel="alternate" type="text/html" title="Project Proposal" /><published>2023-01-30T00:00:00-05:00</published><updated>2023-01-30T00:00:00-05:00</updated><id>http://localhost:4000/project-proposal</id><content type="html" xml:base="http://localhost:4000/project-proposal/"><![CDATA[<html lang="en">
 <title>About | Blog Title</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
