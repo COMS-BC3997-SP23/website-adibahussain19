@@ -38,3 +38,11 @@ layout: page
 
 <p>The project proposal was completed this week, including a description, background, competitor research, motivation, course overview/vision and minimum/target/reach goals. We also added a draft of our timeline and adapted a sample outline for our lesson plans from CS For All. The website to track progress was updated with weekly entries and the final project proposal was published to the website as well. We also had a meeting with the Access Barnard department of Barnard College, since they have a partnership with public NYC high schools to promote Barnard, Opportunity Programs, and the Collegiate Science and Technology Entry Program (CSTEP). Since this state-wide program supports students that are interested in STEM fields at Barnard, Raul Cervantes of Access Barnard was interested in the possibility of us teaching a computer science course to high school students. We will continue to explore this possibility with him, since it could be an opportunity for us to try out a lesson plan with our expected demographic.</p>
 
+<h2 id="license">Week 4</h2>
+
+<p>This week we were able to finish the first draft of the first day curriculum, including a lesson plan and course description. In order to do this, we created sample templates of lesson plans and presentations/slides with a set outline and design to be used by instructors and to create a template for future sessions. </p>
+
+<h2 id="license">Week 5</h2>
+
+<p>This week we revised the first draft of the lesson plan for Day 1 and plan to receive feedback on it from the professor. We started to draft up the lesson plan for Day 2 which covers the basics for the requirements within a standard CS major. </p>
+
