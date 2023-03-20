@@ -46,3 +46,7 @@ layout: page
 
 <p>This week we revised the first draft of the lesson plan for Day 1 and plan to receive feedback on it from the professor. We started to draft up the lesson plan for Day 2 which covers the basics for the requirements within a standard CS major. </p>
 
+<h2 id="license">Week 6</h2>
+
+<p>This week we continued our work for the Day 2 curriculum. We would like the Day 2 curriculum to cover the CS Core Curriculum and the major requirements. We plan to meet outside of class to further discuss the vision for this lesson as there still needs to be a bit of work done in terms of how we plan to structure this particular lesson. One of the main questions we need to answer is if we should use Columbia’s CS major as a standard or the CUNY CS major requirements</p>
+

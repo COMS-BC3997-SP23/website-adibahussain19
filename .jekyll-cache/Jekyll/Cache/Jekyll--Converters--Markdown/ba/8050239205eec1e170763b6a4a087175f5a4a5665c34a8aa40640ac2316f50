@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<title>Weekly Report | Blog Title</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="author" content="Blog Author">
-<meta name="generator" content="Jekyll v4.2.2">
-<link rel="canonical" href="http://localhost:4000/weekly-progress/">
-
-<link rel="stylesheet" href="/assets/css/frame.css">
-
-<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="Blog Title">
-
-
-
-
-
-
-
-<header>
-  <a href="/" class="title">Blog Title</a>
-  <nav><a href="/" >Home</a><a href="/about/" >About</a></nav>
-
-</header>
-
-<article>
-  <header><h1><a href="/weekly-progress/">Weekly Report</a></h1></header>
-  <html lang="en">
+I"ž<html lang="en">
 <title>Weekly Report</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -73,16 +46,4 @@
 <p>This week we continued our work for the Day 2 curriculum. We would like the Day 2 curriculum to cover the CS Core Curriculum and the major requirements. We plan to meet outside of class to further discuss the vision for this lesson as there still needs to be a bit of work done in terms of how we plan to structure this particular lesson. One of the main questions we need to answer is if we should use Columbiaâ€™s CS major as a standard or the CUNY CS major requirements</p>
 
 </article></html>
-
-</article>
-
-
-
-<footer>
-  <div>Made with <b style="color: #f45;">&lt;3</b></div>
-  <nav><a href="mailto:niklasbuschmann@users.noreply.github.com" ><svg aria-label="Mail" class="icon"><use xlink:href="/assets/fontawesome/icons.svg#envelope"></use></svg></a><a href="https://github.com/niklasbuschmann/contrast" ><svg aria-label="Github" class="icon"><use xlink:href="/assets/fontawesome/icons.svg#github"></use></svg></a><a href="/feed.xml" ><svg aria-label="Subscribe" class="icon"><use xlink:href="/assets/fontawesome/icons.svg#rss"></use></svg></a></nav>
-
-</footer>
-
-
-</html>
+:ET
