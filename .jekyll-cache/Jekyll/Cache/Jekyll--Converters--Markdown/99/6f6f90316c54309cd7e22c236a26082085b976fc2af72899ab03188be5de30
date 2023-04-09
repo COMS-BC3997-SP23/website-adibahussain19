@@ -1,4 +1,4 @@
-I"*<html lang="en">
+I"�.<html lang="en">
 <title>Project Proposal 2.0</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -44,10 +44,6 @@
     <a href="https://www.proquest.com/pagepdf/303957277?accountid=10226">A comparative analysis of computer science baccalaureate graduates from cooperative and noncooperative education programs in New York State:</a> This is a dissertation from the 90s which details a study that had the purpose to “to compare the career progress of graduates from a cooperative education in computer science to non-cooperative graduates in the same field of study. A secondary purpose is to determine the current attitudes held by graduates and faculty supervisors toward the cooperative method in order to assess the relative perceived value of cooperative programs.” This can be helpful in our overall report when it comes to background information regarding the importance of these programs. 
   </p>
 
-  <p>
-    <a href="https://www.khanacademy.org/computing">Khan Academy:</a> Provides Hour of Code lessons and courses in Computer programming, Computers and the Internet, AP®︎/College Computer Science Principles, Pixar in a Box Animation, Computer science (Algorithms, Cryptograph, and Information theory), and Computers and the Internet in partnership with Code.org.
-  </p>
-
   <h2 id="features">Competitor Research</h2>
 
   <p>
@@ -80,17 +76,32 @@
 
 <h2 id="based-on">Motivation</h2>
 
-<p>Our main motivations for this project stem from our own experience of trying to adjust to the Computer Science curriculum at Columbia as first year students. All three of us were coming to college from New York City Public High Schools with little to no experience in the tech world. Despite starting off with introductory courses in the CS department just as all prospective CS majors are required to do, we still felt a huge learning curve and felt as though we were at a disadvantage. There were students in our Intro CS classes that had years of experience under their belt while we were just starting out. We decided we wanted to create a program that can be implemented in high schools in order to help bridge this gap. </p>
+<p>Our main motivations for this project stem from our own experience of trying to adjust to the Computer Science curriculum at Columbia as first-year students. All three of us were coming to college from New York City Public High Schools with little to no experience in the tech world. Despite starting off with introductory courses in the CS department as all prospective CS majors are required to do, we still felt a huge learning curve and felt as though we were at a disadvantage. There were students in our Intro CS classes that had years of experience under their belt while we were just starting out. We decided we wanted to create a program that can be implemented in high schools in order to help bridge this gap between high school level knowledge of Computer Science to a baseline understanding of the field. It is not a common occurrence yet for a New York City public high school to offer one or both of the available Advanced Placement computer science courses, so there could still be discrepancies between how successfully courses are taught, especially if they are recently added. Even when these AP courses are available, the coursework alone does not prepare students for the scope of a computer science major or teach them how to prepare to break into the field of technology. Our aim for this project's curriculum is to bridge the knowledge gap between public high school and higher education for underrepresented students that may be interested in tech and STEM fields regardless of their previous access to computer science and advanced placement education. </p>
 
 <h2 id="installation-jekyll-remote-theme-method">Vision</h2>
-
-<p>As of now, the program can consist of ten 60 minute sessions that can be implemented in a format of an afterschool program. Each session will delve into a different topic of technology. Below are some ideas for the sessions:</p>
+<p>As of now, we aim for the program to consist of ten 60-minute sessions that can be implemented in a format of a weekly after school program. Each session will delve into a different topic of technology or Computer Science. Below are the proposed sessions for our program:</p>
+<p><em>Course Overview</em></p>
 <ul>
-  <li>Introduction to Leetcode/Basics of Coding</li>
-  <li>How to Prepare for Internships &amp; Technical Interviews</li>
-  <li>Research in Computer Science</li>
-  <li>Series of Sessions that Discuss the Intersection of CS and other fields (English, Music, etc)</li>
-  <li>Guide to Hackathons (what are they? is it worth it?)</li>
+  <li>In the first and last sessions, students will be given a diagnostic exam in order to track their knowledge and progress as a means to evaluate the effectiveness of our program.</li>
+  <li>10 sessions:</li>
+  <ol>
+    <li>Introduction to course and diagnostic quiz;</li>
+    <li>CS Curriculum requirements, focus on pathways in CS</li>
+    <li>Basics of Computer Science;</li>
+    <li>Intro to Leetcode/Hackathons</li>
+    <li>Internships, tech interviews, tech industry background</li>
+    <li>Research/Academia in CS, HCI, NLP, AI</li>
+    <li>Intersection between CS and other fields (can possibly have guest speakers)</li>
+    <ul>
+      <li>CS and English</li>
+      <li>CS and Music</li>
+      <li>CS and Humanities</li>
+      <li>CS and Media</li>
+    </ul>
+    <li>Cybersecurity: White-hat hacking, pentesting, portswigger</li>
+    <li>Networking, tech resume and LinkedIn workshop</li>
+    <li>Program wrap-up and course evaluation survey</li>
+  </ol>
   
 </ul>
 
