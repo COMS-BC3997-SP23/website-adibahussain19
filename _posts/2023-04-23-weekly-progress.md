@@ -66,3 +66,12 @@ layout: page
 <p>This week, we met up with Melissa Wright of the Barnard College Center for Engaged Pedagogy (CEP) and heard feedback about our approach for the assessments as well as receiving resources about active listening that could be useful for our CS Bridge abstract. We completed our initial and closing diagnostic assessments and updated our Day 1 lesson plan to better fit the downsized and more approachable diagnostic. We began drafting our CS Bridge abstract which includes a note from us as the founders, a message to educators, and will include a tentative progress update of CS Bridge as we near the end of our development. We also began drafting the Day 1 presentation, which will serve as a more detailed guide to running the class for educators and will be an example of future CS Bridge class presentations.
 </p>
 
+<h2 id="license">Week 12</h2>
+<p>We completed the Day 1 slides and updated our slide template to have a more dynamic and eye-catching look that could be more appealing to students. We also finished the CS Bridge final progress update with a note from us and all the information on our pedagogy values as an initiative for both future contributors of the CS Bridge curriculum as well as educators that would run the program. We began working on our CS Bridge write-up/abstract to hand in for class as well as the presentation we will be using to showcase our work.
+</p>
+
+<h2 id="license">Week 13 + Week 14</h2>
+<p>We completed our project PowerPoint and presented our final project to the class and attended the rest of the class presentations. We completed our final project project report during this time and published the rest of the project materials on the website.
+</p>
+
+
