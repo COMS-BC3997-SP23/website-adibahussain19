@@ -1,32 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<title>Weekly Report | Blog Title</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="author" content="Blog Author">
-<meta name="generator" content="Jekyll v4.2.2">
-<link rel="canonical" href="http://localhost:4000/weekly-progress/">
-
-<link rel="stylesheet" href="/assets/css/frame.css">
-
-<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="Blog Title">
-
-
-
-
-
-
-
-<header>
-  <a href="/" class="title">Blog Title</a>
-  <nav><a href="/" >Home</a><a href="/about/" >About</a></nav>
-
-</header>
-
-<article>
-  <header><h1><a href="/weekly-progress/">Weekly Report</a></h1></header>
-  <html lang="en">
-<title>Weekly Report</title>
+I"Þ,<html lang="en">
+<title>CS Bridge Project Report</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="author" content="Blog Author" />
@@ -36,24 +9,33 @@
 <link rel="stylesheet" href="/assets/css/frame.css" />
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
 
-<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="CS Bridge" />
+<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="Blog Title" />
 
 
 <article>
-  <h2 id="installation">Week 0</h2>
+  <p>Adiba Hussain, Fatima Azimova, Nazaret Cuadros<br />
+    Projects in Computer Science<br />
+    Professor Brian Plancher<br />
+    May 1, 2023</p>
 
-  <p>Completed project proposal outline, set up Git repository repo for weekly progress blog, and solidified project idea with group and professor. </p>
-
-  <h2 id="features">Week 1</h2>
+  <h2 id="features">Introduction</h2>
 
   <p>
-    Started formatting and uploading information to the website and began outlining the project proposal.
+    The goal of this project is to develop a computer science curriculum specifically designed for high school students in the New York City public school system. We identified a gap between the computer science knowledge currently being taught in high schools and the level of knowledge required to succeed in college-level computer science courses. Our goal was to create a curriculum that bridges this gap and provides students with the foundational knowledge and skills necessary to excel in higher education and in the tech field as a whole. 
+  </p>
+  <p>We researched various computer science topics and consulted with educators to better understand the needs and interests of our demographic. We developed our pedagogy goals to be self-led education, qualitative tracking with informed consent, active learning, and listening. Based on our findings, we designed a curriculum that covers a wide range of computer science concepts outside of just programming languages. We aim to cover topics from Leetcode to cybersecurity, academia in CS, tech interview prep, and much more. Our end goal is to have an engaging and interactive curriculum that gives students the opportunity to explore various fields within computer science and aligns with our program values of accessibility, collaboration, and community. We are confident that given the resources to complete it, the CS Bridge program can foster a love of learning and a passion for technology and equip students with the tools they need to succeed in college and beyond.
   </p>
 
 
-<h2 id="based-on">Week 2</h2>
+<h2 id="based-on">Background</h2>
+<h3 id="based-on">Motivation</h3>
+<p>Our main motivations for this project stem from our own experience of trying to adjust to the CS curriculum at Columbia as first-year students. All three of us were coming to college from New York City Public High Schools with little to no experience in the tech world. Despite starting with introductory courses in the CS department, as all prospective CS majors are required to do, we still felt a huge learning curve and felt as though we were at a disadvantage. There were students in our Intro CS classes that had years of experience under their belt while we were just starting out. We decided to create a program that can be implemented in high schools in order to help bridge this gap between high school-level knowledge of Computer Science to a baseline understanding of the field. It is not a common occurrence yet for a New York City public high school to offer one or both of the available Advanced Placement computer science courses. Because of this, there could still be discrepancies between how successfully courses are taught, especially if they are recently added. Even when these AP courses are available, the coursework alone does not prepare students for the scope of a computer science major or teach them how to prepare to break into the field of technology. Our aim for this project's curriculum is to bridge the knowledge gap between public high school and higher education for underrepresented students that may be interested in tech and STEM fields regardless of their previous access to computer science and advanced placement education.</p>
 
-<p>We worked on setting up a rough timeline, and started our background research and competitor research to inform our project motivation. A large part of our research was informing ourselves of what a typical public high school might offer and what initiatives are available to provide computer science education. We also started drafting our project proposal and researching lesson plans with approval of more project choices with the professor.</p>
+<h3 id="based-on">Scholarly Research:</h3>
+<p>In order to get started, we decided our first step would be to see what literature and research there had already been done when it came to pre-college CS education. The following articles highlight the importance of implementing programs introducing computer science in high schools, especially in low-income schools with the excessive demand in modern times. 
+</p>
+<p><a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=129882">Increasing accessibility to computer science education across the U.S. (NSF) </a>: The 2013 press release from the National Science Foundation, speaks of their (now inactive) CS10K initiative. They summarize that there is a need for qualified CS educators, CS education isn't mandatory in many places, but there needs to be an early start in CS education. They also give background and verbal support to programs: FRABJOUS, Mobile CSP, Teach for America, Project Lead the Way, The Games Network, and STARS Computing Corps.
+</p>
 
 
 <h2 id="license">Week 3</h2>
@@ -97,17 +79,6 @@
 </p>
 
 
+
 </article></html>
-
-</article>
-
-
-
-<footer>
-  <div>Made with <b style="color: #f45;">&lt;3</b></div>
-  <nav><a href="mailto:niklasbuschmann@users.noreply.github.com" ><svg aria-label="Mail" class="icon"><use xlink:href="/assets/fontawesome/icons.svg#envelope"></use></svg></a><a href="https://github.com/niklasbuschmann/contrast" ><svg aria-label="Github" class="icon"><use xlink:href="/assets/fontawesome/icons.svg#github"></use></svg></a><a href="/feed.xml" ><svg aria-label="Subscribe" class="icon"><use xlink:href="/assets/fontawesome/icons.svg#rss"></use></svg></a></nav>
-
-</footer>
-
-
-</html>
+:ET

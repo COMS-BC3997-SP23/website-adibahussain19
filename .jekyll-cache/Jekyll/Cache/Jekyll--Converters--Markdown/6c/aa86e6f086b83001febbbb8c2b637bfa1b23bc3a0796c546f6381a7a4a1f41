@@ -1,0 +1,92 @@
+I":<html lang="en">
+<title>CS Bridge Project Report</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="author" content="Blog Author" />
+<meta name="generator" content="Jekyll v4.2.2" />
+<link rel="canonical" href="http://localhost:4000/about/" />
+
+<link rel="stylesheet" href="/assets/css/frame.css" />
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
+
+<link rel="alternate" href="/feed.xml" type="application/atom+xml" title="Blog Title" />
+
+
+<article>
+  <p>Adiba Hussain, Fatima Azimova, Nazaret Cuadros<br />
+    Projects in Computer Science<br />
+    Professor Brian Plancher<br />
+    May 1, 2023</p>
+
+  <h2 id="features">Introduction</h2>
+
+  <p>
+    The goal of this project is to develop a computer science curriculum specifically designed for high school students in the New York City public school system. We identified a gap between the computer science knowledge currently being taught in high schools and the level of knowledge required to succeed in college-level computer science courses. Our goal was to create a curriculum that bridges this gap and provides students with the foundational knowledge and skills necessary to excel in higher education and in the tech field as a whole. 
+  </p>
+  <p>We researched various computer science topics and consulted with educators to better understand the needs and interests of our demographic. We developed our pedagogy goals to be self-led education, qualitative tracking with informed consent, active learning, and listening. Based on our findings, we designed a curriculum that covers a wide range of computer science concepts outside of just programming languages. We aim to cover topics from Leetcode to cybersecurity, academia in CS, tech interview prep, and much more. Our end goal is to have an engaging and interactive curriculum that gives students the opportunity to explore various fields within computer science and aligns with our program values of accessibility, collaboration, and community. We are confident that given the resources to complete it, the CS Bridge program can foster a love of learning and a passion for technology and equip students with the tools they need to succeed in college and beyond.
+  </p>
+
+
+<h2 id="based-on">Background</h2>
+<h3 id="based-on">Motivation</h3>
+<p>Our main motivations for this project stem from our own experience of trying to adjust to the CS curriculum at Columbia as first-year students. All three of us were coming to college from New York City Public High Schools with little to no experience in the tech world. Despite starting with introductory courses in the CS department, as all prospective CS majors are required to do, we still felt a huge learning curve and felt as though we were at a disadvantage. There were students in our Intro CS classes that had years of experience under their belt while we were just starting out. We decided to create a program that can be implemented in high schools in order to help bridge this gap between high school-level knowledge of Computer Science to a baseline understanding of the field. It is not a common occurrence yet for a New York City public high school to offer one or both of the available Advanced Placement computer science courses. Because of this, there could still be discrepancies between how successfully courses are taught, especially if they are recently added. Even when these AP courses are available, the coursework alone does not prepare students for the scope of a computer science major or teach them how to prepare to break into the field of technology. Our aim for this project's curriculum is to bridge the knowledge gap between public high school and higher education for underrepresented students that may be interested in tech and STEM fields regardless of their previous access to computer science and advanced placement education.</p>
+
+<h3 id="based-on">Scholarly Research:</h3>
+<p>In order to get started, we decided our first step would be to see what literature and research there had already been done when it came to pre-college CS education. The following articles highlight the importance of implementing programs introducing computer science in high schools, especially in low-income schools with the excessive demand in modern times. 
+</p>
+<p><a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=129882">Increasing accessibility to computer science education across the U.S. (NSF) </a>: The 2013 press release from the National Science Foundation, speaks of their (now inactive) CS10K initiative. They summarize that there is a need for qualified CS educators, CS education isn't mandatory in many places, but there needs to be an early start in CS education. They also give background and verbal support to programs: FRABJOUS, Mobile CSP, Teach for America, Project Lead the Way, The Games Network, and STARS Computing Corps.
+</p>
+<p><a href="https://www.teachforamerica.org/stories/students-need-more-access-to-computer-science-education">Students Need More Access to Computer Science Education (Teach For America)</a>: This 2020 article summarizes useful statistics on the STEM education gap and argues that K-12 education is key to tackling this inequity. Teach For America announces its partnership with Cognizant U.S. Foundation on “expanding computer science pathways in low-income schools nationwide”, with a three-pronged strategy of increasing access to high-quality CS education, advancing the CS conversation, and fostering learning and driving innovation.
+</p>
+<p><a href="https://harvardpolitics.com/computer-science-accessibility/">The Case for Computer Science Accessibility (Harvard Political Review)</a>: This December 2022 article speaks of the success of computer science initiatives in boosting STEM education interest and retention, how it benefits students’ performances in other subjects, and how it fosters skills useful for all careers in a technology-oriented world. Especially beneficial is “free, high-quality instructional material” that makes CS classes as long as the school has computer access.
+</p>
+<p><a href="https://journals.sagepub.com/doi/abs/10.1177/016146812012201106">The Rollout of Computer Science Education to Every Student in New York City: A Socio-Contextual Social Network Analysis</a>: This article covers the history of the CS4All initiative which is projected to be implemented in all NYC public schools by 2025. This program aims to create “the necessary infrastructure to provide computer science experiences to all New York City public-school students”. This initiative was announced in 2015 by NYC Mayor Bill de Blasio. This article was helpful with our overall understanding of the plans to implement more CS Education on a public school level in order to differentiate our own curriculum.
+</p>
+<p><a href="https://eric.ed.gov/?id=ED591502">Landscape of CS Implementation in Schools. Technical Appendices</a>: This is another article that covers CS4All which also “aims to provide professional development (PD) in CS for nearly 5,000 teachers, specifically targeting those with little or no computer science background. The initiative is focused in part on increasing access to CS education among students from historically underrepresented groups, including girls, Black and Latino students, English Learners, and special education students”. This specific report describes “findings from the first year of the evaluation” and includes the goals and strategies of the program, an early implementation of the program and how teachers are responding to the professional development.
+</p>
+<p><a href="https://www.proquest.com/pagepdf/303957277?accountid=10226">A comparative analysis of computer science baccalaureate graduates from cooperative and noncooperative education programs in New York State</a>: This is a dissertation from the 90s that details a study that had the purpose to “to compare the career progress of graduates from a cooperative education in computer science to non-cooperative graduates in the same field of study. A secondary purpose is to determine the current attitudes held by graduates and faculty supervisors toward the cooperative method in order to assess the relative perceived value of cooperative programs.”
+</p>
+<h2 id="license">Week 3</h2>
+
+<p>The project proposal was completed this week, including a description, background, competitor research, motivation, course overview/vision and minimum/target/reach goals. We also added a draft of our timeline and adapted a sample outline for our lesson plans from CS For All. The website to track progress was updated with weekly entries and the final project proposal was published to the website as well. We also had a meeting with the Access Barnard department of Barnard College, since they have a partnership with public NYC high schools to promote Barnard, Opportunity Programs, and the Collegiate Science and Technology Entry Program (CSTEP). Since this state-wide program supports students that are interested in STEM fields at Barnard, Raul Cervantes of Access Barnard was interested in the possibility of us teaching a computer science course to high school students. We will continue to explore this possibility with him, since it could be an opportunity for us to try out a lesson plan with our expected demographic.</p>
+
+<h2 id="license">Week 4</h2>
+<p>This week we were able to finish the first draft of the first day curriculum, including a lesson plan and course description. In order to do this, we created sample templates of lesson plans and presentations/slides with a set outline and design to be used by instructors and to create a template for future sessions. </p>
+
+<h2 id="license">Week 5</h2>
+<p>This week we revised the first draft of the lesson plan for Day 1 and plan to receive feedback on it from the professor. We started to draft up the lesson plan for Day 2 which covers the basics for the requirements within a standard CS major. </p>
+
+<h2 id="license">Week 6</h2>
+<p>This week we continued our work for the Day 2 curriculum. We would like the Day 2 curriculum to cover the CS Core Curriculum and the major requirements. We plan to meet outside of class to further discuss the vision for this lesson as there still needs to be a bit of work done in terms of how we plan to structure this particular lesson. One of the main questions we need to answer is if we should use Columbia’s CS major as a standard or the CUNY CS major requirements</p>
+
+<h2 id="license">Week 7</h2>
+<p>This week we enjoyed a week off from working on the project, and got some well-needed rest. :)</p>
+
+<h2 id="license">Week 8</h2>
+<p>This week we reviewed the Day 2 and 3 curriculum drafts and spoke about any improvements we can make now and going forward now that we have a third of the coursework drafted. We were able to present our project for the first time in class and received beneficial feedback on how best to frame our background and purpose for our final proposal. We also contacted Raul Cervantes again to check for any updates about the trial courses we could work on. So far, Raul is waiting on more details about the possible trial class, so we will hear from him when he has more information.
+</p>
+
+<h2 id="license">Week 9</h2>
+<p>This week, after a group discussion we made the decision to make a few changes to the project proposal in terms of the order of the lessons. We felt that the content would make more sense in a different order for students that are first being introduced to the field of computer science. The CS curriculum class is now Lesson 2 and the CS Basics class will be lesson 3. We were also able to complete the Day 5 lesson plan, individually look over all the days 1-5, and regroup to make a few improvements. We uploaded Days 1-5, and are planning to speak with professor Brian Plancher to check in on our progress and goals for the rest of the course before we start the diagnostic assessments and presentations for each class.
+</p>
+
+<h2 id="license">Week 10</h2>
+<p>This week we got in contact with Bobby Koeth III from the Columbia University Teaching and Learning Center (TLC). We got an overview/refresh of the program at length since two of us were former tutors, and we learned a lot from the perspective of a pedagogy research project that was applied as a voluntary after school program for NYC public school students. After the call, we decided to rework our diagnostic to better empower students and motivate them to be in charge of their own learning. We also began our CS Bridge Abstract to serve as a more formal final progress update, guidance for future CS Bridge contributors, and a note to educators about the way the CS Bridge program aims to function. We were able to solidify as a group our choice of teaching style, and since our program is voluntary for participants, we felt like our biggest priority is to be engaging and student-centered.
+</p>
+
+<h2 id="license">Week 11</h2>
+<p>This week, we met up with Melissa Wright of the Barnard College Center for Engaged Pedagogy (CEP) and heard feedback about our approach for the assessments as well as receiving resources about active listening that could be useful for our CS Bridge abstract. We completed our initial and closing diagnostic assessments and updated our Day 1 lesson plan to better fit the downsized and more approachable diagnostic. We began drafting our CS Bridge abstract which includes a note from us as the founders, a message to educators, and will include a tentative progress update of CS Bridge as we near the end of our development. We also began drafting the Day 1 presentation, which will serve as a more detailed guide to running the class for educators and will be an example of future CS Bridge class presentations.
+</p>
+
+<h2 id="license">Week 12</h2>
+<p>We completed the Day 1 slides and updated our slide template to have a more dynamic and eye-catching look that could be more appealing to students. We also finished the CS Bridge final progress update with a note from us and all the information on our pedagogy values as an initiative for both future contributors of the CS Bridge curriculum as well as educators that would run the program. We began working on our CS Bridge write-up/abstract to hand in for class as well as the presentation we will be using to showcase our work.
+</p>
+
+<h2 id="license">Week 13 + Week 14</h2>
+<p>We completed our project PowerPoint and presented our final project to the class and attended the rest of the class presentations. We completed our final project project report during this time and published the rest of the project materials on the website.
+</p>
+
+
+
+</article></html>
+:ET
